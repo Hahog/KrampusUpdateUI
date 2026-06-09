@@ -1,15 +1,4 @@
 .claude/
-.frontend/
-.env
-*.exe
-*.exe~
-*.dll
-*.so
-*.dylib
-/krampus
-/app
-storage/
-.claude/
 .env
 *.exe
 *.exe~
