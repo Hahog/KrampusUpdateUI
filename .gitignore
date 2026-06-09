@@ -9,3 +9,10 @@
 /krampus
 /app
 storage/
+.claude/
+.env
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
